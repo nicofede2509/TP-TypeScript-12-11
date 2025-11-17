@@ -1,0 +1,1 @@
+{"version":3,"file":"simpsons-service.d.ts","sourceRoot":"","sources":["simpsons-service.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,uBAAuB,CAAC;AAEvD,cAAM,eAAe;IACnB,OAAO,CAAC,WAAW,CAAc;;IAQ3B,gBAAgB,IAAI,OAAO,CAAC;QAAE,OAAO,EAAE,SAAS,EAAE,CAAA;KAAE,CAAC;IAIrD,gBAAgB,CAAC,EAAE,EAAE,MAAM,GAAG,OAAO,CAAC,SAAS,CAAC;CAGvD;AAED,eAAO,MAAM,eAAe,iBAAwB,CAAC"}

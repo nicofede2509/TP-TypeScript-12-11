@@ -86,4 +86,4 @@ async function mostrarPokemon(nombre: string): Promise<void> {
 // mostrarProductos();
 // mostrarProductoIndividual(1);
 // mostrarPersonajes();
-mostrarPokemon('pikachu');
+mostrarPokemon('mewtwo');
